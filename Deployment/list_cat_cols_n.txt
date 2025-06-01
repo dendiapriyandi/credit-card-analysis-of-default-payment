@@ -1,0 +1,1 @@
+["sex", "education_level", "marital_status", "age"]
