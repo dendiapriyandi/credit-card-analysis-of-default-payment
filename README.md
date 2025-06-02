@@ -52,8 +52,7 @@ Evaluated various models to determine the best performance:
 - Accuracy  
 - Precision  
 - Recall  
-- F1 Score  
-- ROC AUC Score
+- F1 Score
 
 ---
 
